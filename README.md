@@ -1,1 +1,1 @@
-# taller-practico-videojuego-javascript
+# talller-practico-javascript-videogames
